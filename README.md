@@ -1,4 +1,5 @@
 # Homework
+Discord Channel: https://discord.gg/gxEa2csX , I will be there most weekday evenings. 
 Coding challenges to help develop Python skills. Use https://replit.com/~ to code. Later on we'll switch to a proper IDE. For now Replit will allow you to invite other people to see your code and share a workspace. I also advise creating a github repository for each challenge. 
 
 # Week 1 challenges I:
