@@ -13,3 +13,12 @@ Coding challenges to help develop Python skills. Use https://replit.com/~ to cod
 # Week 1 challenges II: 
   - Create a text based game that makes decision based on the player input. This will require storing the user input and then using that input to make decisions in the game. You most likely need to use comparison operators. I advise making a hand written diagram of your game before you begin coding. This should hurt a little bit, that’s is how we learn. Reach out if you have issues.
 
+---
+---
+# Week 2 Challenges I:
+  - Write a program that takes in number grade and print out a letter grade. For example, 95 would an 'A', 76 would be a C, anything below 60 would be an 'F'. 
+    90 - 100 = A ,80 - 89  = B, 70 - 79  = C,60 - 69  = D, <60 = F. Hint: you will need to convert the input into a number.
+    
+  - Write a program that will take in the users first name and the users last name. The program will them print out the user initials. In my case, 'G J' would be the output.
+
+  - Write a program that will add up every number in a range from 1-20 (inclusive). The program will print out the total. 
