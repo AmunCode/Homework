@@ -29,4 +29,5 @@ Coding challenges to help develop Python skills. Use https://replit.com/~ to cod
 
 # Week 2 Challenges II:
   - Write a calculator. A program that will let the user enter two numbers and select an operation (addition, subtraction, multiplication and division) to be performed on the given numbers. The results of the calculation should be printed on the screen. 
+  
   - BONUS (HARD) - Make a variation of your calculator program that allows the user to continue to make calculations until the choose to exit. This mean I could enter 10 + 15 = 25, then do another calculation onto 25. Something like 25 * 4 resulting in 100. HINT: pseudocode this before you start coding, How do you keep doing calculation loops? The team gets treated to lunch is you can hand in a finished code that I cannot break by entering bogus information like 'A B C' or some other bogus information.
