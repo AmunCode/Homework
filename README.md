@@ -25,7 +25,7 @@ Coding challenges to help develop Python skills. Use https://replit.com/~ to cod
   - Write a program that will take in 4 numbers from a user. The program will then print the higest number the user entered and the lowest number the user entered.
     for example if the user entered '40, 4000, -4554, 78', your program should print out "your max number: 4000" and "your min number: -4554".
     
-  - Write a program that take in two numbers from a user and return the sum of those two numbers. you must use an function called 'add' and pass the tow numbers to the add function. Then print the sum out to the user. So if I entered 60 and 55, I should get a print out of 115. 
+  - Write a program that takes in two numbers from a user and returns the sum of those two numbers. You must use an function called 'add' and pass the two numbers to the 'add' function. Then print the sum out to the user. So if I entered 60 and 55, I should get a print out of 115. 
 
 # Week 2 Challenges II:
   - Write a calculator. A program that will let the user enter two numbers and select an operation (addition, subtraction, multiplication and division) to be performed on the given numbers. The results of the calculation should be printed on the screen. 
